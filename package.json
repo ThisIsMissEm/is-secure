@@ -1,0 +1,16 @@
+{
+  "name": "is-secure",
+  "version": "0.0.0",
+  "description": "Test if a HTTP Request is secure, taking into account x-fowarded-proto and related.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "https",
+    "secure",
+    "security"
+  ],
+  "author": "Micheil <modules@brandedcode.com> (Em)",
+  "license": "MIT"
+}
